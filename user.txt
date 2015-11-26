@@ -1,0 +1,4 @@
+edua:123
+edu:123
+edua:123
+vini:aaa
